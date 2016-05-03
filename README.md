@@ -3,7 +3,7 @@ Description:
 This repo contains a variety of high quality Open License fonts, sorted into convenient collections, and accompanied by a font "menu", which is just a file that demonstrates the font set by using it in a graphical story-like situation.
 
 Font requirements:
-1. All fonts included must be under a license that permits free coppying and distribution, as well as allow editing, and extending.
+1. All fonts included must be under a license that permits free copying and distribution, as well as allow editing, and extending.
 2. Fonts must be professional looking, with proper kerning between characters
 3. Fonts must have license information accompanying them
 
